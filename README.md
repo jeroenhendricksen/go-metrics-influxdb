@@ -22,7 +22,7 @@ Usage
 -----
 
 ```go
-import "github.com/jregovic/go-metrics-influxdb"
+import "github.com/jeroenhendricksen/go-metrics-influxdb"
 
 go influxdb.InfluxDBWithTags(
     metrics.DefaultRegistry,    // metrics registry
